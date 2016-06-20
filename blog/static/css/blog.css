@@ -1,14 +1,15 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Indie Flower';
+    font-family: 'Asul';
 }
 
 body {
     padding-left: 15px;
+    background-color: #dce2ca;
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #2f4d0e;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -21,10 +22,11 @@ body {
 
 .content {
     margin-left: 40px;
+    font-family:'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Asul', sans-serif;
 }
 
 .date {
@@ -40,7 +42,6 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
     float: right;
     font-size:26pt;
     margin-right: 20px;
@@ -54,4 +55,8 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
-
+.nav {
+    display:block;
+    padding: 8px;
+    background-color: #72ba3b;
+    }
